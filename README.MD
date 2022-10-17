@@ -18,4 +18,3 @@ This smart contract code intends explanation of technological advancements (prog
 ### allowance
 ### approve
 ### transferFrom
-### approve
